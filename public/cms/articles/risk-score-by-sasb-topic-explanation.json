@@ -1,0 +1,4 @@
+{
+  "identifier": "Risk score by SASB topic explanation",
+  "body": "**Article ESG Score**: For each article, the normalised topic relevance score is multiplied by its sentiment score.\n\n**ESG score per SASB Topic**: within each of the 5 main SASB topics, we average these individual article ESG scores & display these averages per Topic as a bar chart.\n\n*ie. a Topic Score can be negative or positive depending on the article scores main trend*\n\n![CleanShot 2022-03-28 at 12.28.16.png](https://codahosted.io/docs/I_H1o-bxoj/blobs/bl-lX4XpKX1LS/28c3e93e68ee487ab1ca3cede8ba0f85abc92f5832a0c911621989949dfa69bf23f1ac55f25b2a9ae0a4bf217f6031398778de69678056f791b7faebc957fd2e9d7672108a1dda1621e84157b9b3698cc852c16ab375444c002e1816d443357f473914d9)"
+}

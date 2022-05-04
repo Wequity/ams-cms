@@ -1,0 +1,4 @@
+{
+  "identifier": "Keyword category scores explanation",
+  "body": "**Keyword Categories** we fetch data for: ceo, executive staff, stock ticker, company name, products, subsidiaries.\n\nThis chart below details the **article distribution per keyword category.**\n\nFor each company we put together a list of keywords, each keyword has a specific category as attribute which then enable us to aggregate data per category.\n\nBy clicking a keyword category, this updates the right hand side chart with the finer distribution per keyword used to fetch the news.\n\nLooking at this chart you should be able to judge in which proportion each category plays a role in the overall ESG scores, how categories are represented throughout the overall company data.\n\n![](/cms/media/cleanshot-2022-04-01-at-11.31.52-2x.png)"
+}

@@ -1,0 +1,19 @@
+backend:
+  name: github
+  branch: master
+  repo: "Wequity/esg-frontend"
+publish_mode: editorial_workflow
+media_folder: "public/cms/media"
+public_folder: "/cms/media"
+collections:
+  - name: "article"
+    label: "Articles"
+    label_singular: "Article"
+    folder: "public/cms/articles"
+    create: false
+    slug: "{{slug}}"
+    format: "json"
+    identifier_field: identifier
+    fields:
+      - { label: "Name", name: "identifier", widget: "hidden" }
+      - { label: "Body", name: "body", widget: "markdown" }

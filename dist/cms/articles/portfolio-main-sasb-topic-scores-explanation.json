@@ -1,0 +1,4 @@
+{
+  "identifier": "Main SASB topic scores explanation",
+  "body": "This vertical stacked bar chart details the articles’ main topic distribution: for each article we consider the strongest (max) SASB topic relevance score, which then allows us to define the distribution of articles throughout all 5 SASB topics. When clicking on a **main Topic bar chart,** this updates the chart on the right with the more granular distribution per sub-topic. Looking at this chart you should be able to judge in which proportion each topic is represented throughout the overall company data.\n\nGiven this is the distribution, each stacked bar can in theory go from 0-100%, the sum of all Main SASB Topic bars will be 100%. The sum of its subtopic should equal the main topic’s %. \n\nIn **red** is the percentage of articles with a **negative** sentiment score, and in **green** is the percentage of articles with a **positive** sentiment score; where it’s sentiment_score > I25%I"
+}
