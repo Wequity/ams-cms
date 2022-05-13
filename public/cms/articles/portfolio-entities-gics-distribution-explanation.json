@@ -1,4 +1,4 @@
 {
   "identifier": "Entities per gics sector",
-  "body": ""
+  "body": "This horizontal barplot shows your portfolio diversification in terms of firm count per GICS sector which divides your portfolio companies into its 11 Industry Groups. This chart is a graphical representation of that distribution. We do not weigh these using AuM shares yet, but this can be done in a following iteration.\n\nThe X-axis gives raw numbers of companies per sector."
 }
