@@ -1,4 +1,4 @@
 {
   "identifier": "portfolio-latest-news-explanation",
-  "body": "This table highlights the biggest debates in the ESG spheres within your portfolio. We only show the most relevant news where:\n\n* Positive: where sentiment score > I 25% I\n* Negative: where sentiment score > I 35% I\n* Topic_main: where topic score >25%.\n* Topic_sub: where sub-topic score >25%."
+  "body": "This table highlights the biggest debates in the ESG spheres within your portfolio. We only show the most relevant news where:\n\n* Positive: where sentiment score > 25% \n* Negative: where sentiment score > - 35% \n* Topic_main: where topic score >25%.\n* Topic_sub: where sub-topic score >25%."
 }
