@@ -9,5 +9,26 @@
   <body>
     <div id="app"></div>
     <script type="module" src="/src/main.ts"></script>
+    <form name="amsNewEntityRequest" method="POST" data-netlify="true" style="display: none;">
+      <input name="name" type="text" />
+      <select name="gics[]" type="text" multiple>
+        <option value="Financials">Financials</option>
+        <option value="Utilities Sector">Utilities Sector</option>
+        <option value="Consumer Staples">Consumer Staples</option>
+        <option value="Industrials">Industrials</option>
+        <option value="Consumer Discretionary">Consumer Discretionary</option>
+        <option value="Energy">Energy</option>
+        <option value="Health Care">Health Care</option>
+        <option value="Communication Services">Communication Services</option>
+        <option value="Information Technology">Information Technology</option>
+        <option value="Real Estate">Real Estate</option>
+        <option value="Materials">Materials</option>
+      </select>
+      <input name="subsidiaries" type="text" />
+      <input name="ceo" type="text" />
+      <input name="ticker" type="text" />
+      <input name="userEmail" type="text"/>
+      <input name="userId" type="text"/>
+    </form>
   </body>
 </html>
